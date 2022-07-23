@@ -1,4 +1,4 @@
-package com.deyvitineo.quizapp
+package com.arman.quizapp
 
 import android.content.Intent
 import android.os.Bundle
